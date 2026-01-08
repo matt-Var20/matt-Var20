@@ -4,4 +4,3 @@ excerpt: "<br/><img src='images/aws-educate-introduction-to-cloud-101-training-b
 collection: portfolio
 ---
 
-Me and my brother built this completely from scratch, we carefully assembled each and every component. It turned on first try!!
